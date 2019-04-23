@@ -235,6 +235,10 @@ button {
 	justify-content: space-evenly;
 }
 
+.padded{
+	padding: 1rem 0 1rem 0;	
+}
+
 .col li{
 	list-style-type: none;
 }
