@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Martin GASQUE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+</head>
+
+<body>
+    <header>
+        <div id="menu">
+            <h1>Martin Gasque</h1>
+            <button class="buttonBlock" onclick="Display(event, 'profil')">
+                <h1>Profil</h1>
+            </button>
+            <button class="buttonBlock" onclick="Display(event, 'experience')">
+                <h1>Experience</h1>
+            </button>
+            <button class="buttonBlock" onclick="Display(event, 'contact')">
+                <h1>Contact</h1>
+            </button>
+        </div>
+    </header>
+    <!-- PROFIL -->
+    <div id="profil" class="container">
+        <div class="banner">
+            <h2>Martin Gasque</h2>
+            <hr>
+            <h3>Developpeur passionné, j'associe le web et la communication pour créer des opportunitées graphiques et
+                techniques uniques.</h3>
+        </div>
+    </div>
+    <!-- EXPERIENCE -->
+    <div id="experience" class="container">
+        <div class="separator">
+            <h2>Compétences</h2>
+        </div>
+        <div class="row">
+            <div class="col">
+                <img>
+                <h2>Communication</h2>
+                <ul>
+                    <li>
+                        <h3>BTS Communication</h3>
+                        <h4>Obtenu à l'estacom de Bourges, j'ai appris à gérer une communication externe et à épauler
+                            les commerciaux dans leur vente de supports de communication</h4>
+                    </li>
+                    <li>
+                        <h3>Freelance</h3>
+                        <h4>J'ai réalisé plusieurs communications dont une externe pour un salon de tatouage qui
+                            cherchait à booster sa notoriété</h4>
+                    </li>
+                    <li>
+                        <h3>Stages</h3>
+                        <h4>En association ou en entreprise, j'ai effectué mes stages en régie publicitaire. J'ai eue
+                            alors pour charge de créer des supports de communication (site web, affiches...) et de
+                            contacter les interessés par téléphone. </br>J'ai développé des talents de vendeur en
+                            connaissant les enjeux du travail en entreprise</h4>
+                    </li>
+                </ul>
+            </div>
+            <div class="col">
+                <img>
+                <h2>Developpement</h2>
+                <ul>
+                    <li>
+                        <h3>Formation en cours : CEFIM</h3>
+                        <h4>J'y apprends à developper en web, javascript et python, des langages essentiels pour le web.
+                        </h4>
+                    </li>
+                    <li>
+                        <h3>Site d'appui pour jeu de role</h3>
+                        <h4>Grand joueur de jeu de rôle, je créer une page internet locale sur laquelle les
+                            utilisateurs(et donc joueurs) peuvent modifier directement les valeurs grâce à un systeme de
+                            base de données</h4>
+                    </li>
+                    <li>
+                        <h3>Picsine - 42</h3>
+                        <h4>L'éxperience qui à fait du code ma passion, j'ai passé un mois dans une école en internat à
+                            coder près de 13h/jour, sans professeur par simple échange de savoir entre les élèves. J'ai
+                            pu comprendre les fonctionnements du langage C et la logique informatique en général.
+                            J'envisage de retourner dans cette école afin de me perfectionner plus tard</h4>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="carousel" class="row">
+            <a href="gallerie/Carousel/A.png" target="_blank"><img src="gallerie/Carousel/A.png"></a>
+            <a href="gallerie/Carousel/B.png" target="_blank"><img src="gallerie/Carousel/B.png"></a>
+            <a href="gallerie/Carousel/C.png" target="_blank"><img src="gallerie/Carousel/C.png"></a>
+            <a href="gallerie/Carousel/D.png" target="_blank"><img src="gallerie/Carousel/D.png"></a>
+            <a href="gallerie/Carousel/E.jpg" target="_blank"><img src="gallerie/Carousel/E.jpg"></a>
+        </div>
+        <img src="gallerie/parcours.svg">
+    </div>
+    <!-- CONTACT -->
+    <div class="container" id="contact">
+        <div class="separator">
+            <h2>Appelez moi !...</h2>
+        </div>
+
+        <h1>0767888499</h1>
+
+        <div class="separator">
+            <h2>Ou écrivez moi !</h2>
+        </div>
+        <div>
+            <h3>N'hesitez pas à me dire ce que vous pensez de mon site</h3>
+            <form action="envoi.php" method="post">
+                <div class="row fluid">
+                    <label for="nom">
+                        <h4>Votre patronyme pour vous reconnaitre :</h4>
+                    </label>
+                    <input type="text" name="nom" placeholder="La meilleure entreprise pour un stage">
+                </div>
+                <div class="row fluid">
+                    <label for="mail">
+                        <h4>Votre e-mail pour que je puisse vous recontacter :</h4>
+                    </label>
+                    <input type="email" name="mail" placeholder="exemple@monentreprise.com">
+                </div>
+                <div class="row fluid">
+                    <label for="objet">
+                        <h4>Le sujet de votre e-mail :</h4>
+                    </label>
+                    <input type="email" name="objet" placeholder="exemple@monentreprise.com">
+                </div>
+                <div class="row fluid">
+                    <label for="message">
+                        <h4>Votre message :</h4>
+                    </label>
+                    <textarea id="msg" name="message"
+                        placeholder="J'écris des tas de belles choses à ce Martin si sympathique."></textarea>
+                </div>
+                <input type="Submit" name="Submit" name="send">
+            </form>
+        </div>
+
+        <div class="separator">
+            <h2> Disponible dans la ville de Tours, je reste mobile aux villes alentours </h2>
+        </div>
+
+        <div>
+            <h3> Habitant au centre-ville de Tours, je n'aurais aucun problème d'accessibilité pour venir vous
+                rencontrer</h3>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61118.06607766775!2d0.7010581918072988!3d47.39121465397229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47fcd5b34a979a55%3A0x40dc8d705388430!2sTours!5e0!3m2!1sfr!2sfr!4v1548088648975"
+                width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
