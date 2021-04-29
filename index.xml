@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://obsidienstudio.github.io/CleanGlass/langages/c-sharp/</guid>
-      <description>Le langage C# est&amp;hellip;</description>
+      <description>&lt;p&gt;Le langage C# est un langage de programmation orientée objet, commercialisé par Microsoft depuis 20023 et destiné à développer sur la plateforme Microsoft &amp;ldquo;.NET&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -21,16 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://obsidienstudio.github.io/CleanGlass/langages/css/</guid>
-      <description>Le CSS pour &amp;ldquo;Cascading Style Sheet&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://obsidienstudio.github.io/CleanGlass/langages/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://obsidienstudio.github.io/CleanGlass/langages/html/</guid>
-      <description>Le HTML pour HyperText Markup Language est&amp;hellip;</description>
+      <description>&lt;p&gt;Les CSS pour &amp;ldquo;Cascading Style Sheets&amp;rdquo; sont le code utilisé dans le web pour mettre en forme une page, leurs donner couleur, forme et animation. le &amp;lsquo;3&amp;rsquo; est un numéro de version correspondant a l&amp;rsquo;ensemble des fonctions disponibles.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,7 +39,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://obsidienstudio.github.io/CleanGlass/langages/js/</guid>
-      <description>Le JavaScript est&amp;hellip;</description>
+      <description>&lt;p&gt;JavaScript (souvent abrégé en « JS ») est un langage de script léger, orienté objet, principalement connu comme le langage de script des pages web
+J&amp;rsquo;utilise le Javascript de manière native, sans jQuery ou autre bibliotheque.&lt;/p&gt;</description>
     </item>
     
     <item>
