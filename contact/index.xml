@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian Glass</title>
-    <link>https://obsidienstudio.github.io/contact/</link>
+    <link>https://obsidienstudio.github.io/CleanGlass/contact/</link>
     <description>Recent content on Obsidian Glass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/CleanGlass/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

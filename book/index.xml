@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>book on Obsidian Glass</title>
-    <link>https://obsidienstudio.github.io/book/</link>
+    <link>https://obsidienstudio.github.io/CleanGlass/book/</link>
     <description>Recent content in book on Obsidian Glass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/book/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/CleanGlass/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>site de la fun</title>
-      <link>https://obsidienstudio.github.io/book/site-de-la-fun/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/book/site-de-la-fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/book/site-de-la-fun/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/book/site-de-la-fun/</guid>
       <description>La FUN est une association qui promouvoit l&amp;rsquo;usage libéré des outils afin de permettre aux usagers de créer leurs objets sans dépendre d&amp;rsquo;industriels. J&amp;rsquo;ai été missionné par l&amp;rsquo;association pour créer leur site. C&amp;rsquo;est grâce a ce dernier que j&amp;rsquo;ai pu découvrir un aspect du web que je ne connaissait pas avant, le Low-Web. C&amp;rsquo;est également sur ce site que j&amp;rsquo;ai appris a me servir du framework Hugo.</description>
     </item>
     

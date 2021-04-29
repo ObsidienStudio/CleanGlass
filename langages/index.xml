@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>langages on Obsidian Glass</title>
-    <link>https://obsidienstudio.github.io/langages/</link>
+    <link>https://obsidienstudio.github.io/CleanGlass/langages/</link>
     <description>Recent content in langages on Obsidian Glass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/langages/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/CleanGlass/langages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C#</title>
-      <link>https://obsidienstudio.github.io/langages/c-sharp/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/c-sharp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/c-sharp/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/c-sharp/</guid>
       <description>Le langage C# est&amp;hellip;</description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://obsidienstudio.github.io/langages/css/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/css/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/css/</guid>
       <description>Le CSS pour &amp;ldquo;Cascading Style Sheet&amp;rdquo;</description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://obsidienstudio.github.io/langages/html/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/html/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/html/</guid>
       <description>Le HTML pour HyperText Markup Language est&amp;hellip;</description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://obsidienstudio.github.io/langages/hugo/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/hugo/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/hugo/</guid>
       <description>Hugo est le framework utilisé pour batir ce site</description>
     </item>
     
     <item>
       <title>JS</title>
-      <link>https://obsidienstudio.github.io/langages/js/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/js/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/js/</guid>
       <description>Le JavaScript est&amp;hellip;</description>
     </item>
     
     <item>
       <title>Prestashop</title>
-      <link>https://obsidienstudio.github.io/langages/prestashop/</link>
+      <link>https://obsidienstudio.github.io/CleanGlass/langages/prestashop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obsidienstudio.github.io/langages/prestashop/</guid>
+      <guid>https://obsidienstudio.github.io/CleanGlass/langages/prestashop/</guid>
       <description>Prestashop est un géstionnaire de shop en ligne&amp;hellip;</description>
     </item>
     
