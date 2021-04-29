@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home on Obsidian Glass</title>
+    <link>https://obsidienstudio.github.io/</link>
+    <description>Recent content in home on Obsidian Glass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-Fr</language><atom:link href="https://obsidienstudio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://obsidienstudio.github.io/langages/c-sharp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/c-sharp/</guid>
+      <description>Le langage C# est&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://obsidienstudio.github.io/langages/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/css/</guid>
+      <description>Le CSS pour &amp;ldquo;Cascading Style Sheet&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://obsidienstudio.github.io/langages/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/html/</guid>
+      <description>Le HTML pour HyperText Markup Language est&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://obsidienstudio.github.io/langages/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/hugo/</guid>
+      <description>Hugo est le framework utilisé pour batir ce site</description>
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>https://obsidienstudio.github.io/langages/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/js/</guid>
+      <description>Le JavaScript est&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prestashop</title>
+      <link>https://obsidienstudio.github.io/langages/prestashop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/langages/prestashop/</guid>
+      <description>Prestashop est un géstionnaire de shop en ligne&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>site de la fun</title>
+      <link>https://obsidienstudio.github.io/book/site-de-la-fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obsidienstudio.github.io/book/site-de-la-fun/</guid>
+      <description>La FUN est une association qui promouvoit l&amp;rsquo;usage libéré des outils afin de permettre aux usagers de créer leurs objets sans dépendre d&amp;rsquo;industriels. J&amp;rsquo;ai été missionné par l&amp;rsquo;association pour créer leur site. C&amp;rsquo;est grâce a ce dernier que j&amp;rsquo;ai pu découvrir un aspect du web que je ne connaissait pas avant, le Low-Web. C&amp;rsquo;est également sur ce site que j&amp;rsquo;ai appris a me servir du framework Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>

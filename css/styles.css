@@ -1,0 +1,316 @@
+@font-face {
+    font-family: "Holiday";
+    src: url("/fonts/HolidayFree.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+:root {
+    --white: #f5f5f5;
+    /* Isabelline */
+    --primary-color: #00CFC1;
+    /* Middle blue green */
+    --secondary-color: #FD5200;
+    /* Burnt Sienna */
+    --tertiary-color: #7A6563/* deep taupe */
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body, footer {
+    padding-left: 12vw;
+    padding-right: 12vw;
+    margin: 0;
+    font-family: "Roboto";
+    background-color: var(--white);
+}
+
+hr{
+    width: 100%;
+    height: 2px;
+    background-color: #000200;
+}
+
+.wrapper {
+    min-height: 88vh;
+}
+
+.separator {
+    height: 2em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: black;
+    align-items: center;
+    font-size: 26px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.book .separator {
+    background-color: var(--secondary-color);
+}
+
+.contact .separator {
+    background-color: var(--tertiary-color);
+}
+
+.button{
+    font-size: 20px;
+    padding: 1em 2em;
+    border-radius: 5px;
+    color: var(--white);
+    text-transform: capitalize;
+    text-decoration: none;
+    margin: auto;
+    height: min-content;
+}
+
+.button:hover{
+    transition-delay: 0.1s;
+    transition-duration: 0.2s;
+}
+
+.button-primary{
+    background-color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+}
+.button-secondary{
+    background-color: var(--secondary-color);
+    border: 2px solid var(--secondary-color);
+}
+.button-tertiary{
+    background-color: var(--tertiary-color);
+    border: 2px solid var(--tertiary-color);
+}
+
+.button-primary:hover{
+    color: var(--primary-color);
+    background-color: var(--white);
+}
+.button-secondary:hover{
+    color: var(--secondary-color);
+    background-color: var(--white);
+}
+.button-tertiary:hover{
+    color: var(--tertiary-color);
+    background-color: var(--white);
+}
+
+
+/* #region Menu */
+
+#menu {
+    font-family: "Holiday";
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#menu .banner {
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+#menu .banner-name {
+    max-width: 4em;
+}
+
+#menu .button-menu {
+    width: 5em;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-left: 0.5em;
+    padding: 0.3em 0.1em;
+    background-color: var(--primary-color);
+    color: black;
+    text-decoration: none;
+}
+
+#menu .button-menu:nth-child(2n) {
+    background-color: var(--secondary-color);
+}
+
+#menu .button-menu:last-child {
+    background-color: var(--tertiary-color);
+}
+
+#menu .button-menu:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* #endregion */
+
+/* #region Menu-Responsive */
+
+#menu-responsive {
+    display: flex;
+    flex-direction: row;
+    font-family: "Holiday";
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#menu-responsive .banner {
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+#menu-responsive .banner-name {
+    max-width: 4em;
+}
+
+#menu-responsive .button-menu {
+    width: 5em;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-left: 0.5em;
+    padding: 0.3em 0.1em;
+    background-color: var(--primary-color);
+    color: black;
+    text-decoration: none;
+}
+
+#menu-responsive .button-menu:nth-child(2n) {
+    background-color: var(--secondary-color);
+}
+
+#menu-responsive .button-menu:last-child {
+    background-color: var(--tertiary-color);
+}
+
+#menu-responsive .button-menu:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* #endregion */
+
+
+.description img {
+    height: 15em;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.resume {
+    font-size: 18px;
+    margin-left: auto;
+    width: 75%;
+}
+
+.icon-home img {
+    max-height: 6em;
+}
+
+.home-stamp {
+    width: 10em;
+    border: 2px solid #000200;
+    border-radius: 10px;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.book-stamp{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 1em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+.book-stamp img{
+    object-fit: contain;
+    max-width: 9em;
+}
+
+.book-stamp .resume{
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 7em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.contact-mail{
+    font-size: 22px;
+}
+.contact-number{
+    font-size: 22px;
+}
+.contact-extra{
+    font-size: 22px;
+}
+.contact-number span{
+    font-family: "Holiday";
+}
+
+footer {
+    margin-top: 2em;
+}
+
+footer .reseaux-sociaux a svg {
+    width: 4em;
+}
+
+footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: var(--tertiary-color);
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    body, footer {
+        padding: 0;
+    }
+    #menu {
+        display: none;
+    }
+    .resume {
+        width: 95%;
+        margin: auto;
+    }
+    img {
+        margin: auto;
+    }
+}
