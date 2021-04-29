@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Holiday";
-    src: url("fonts/HolidayFree.otf") format("opentype");
+    src: url("/CleanGlass/fonts/HolidayFree.otf") format("opentype");
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url("fonts/Roboto-Regular.ttf") format("truetype");
+    src: url("/CleanGlass/fonts/Roboto-Regular.ttf") format("truetype");
 }
 
 :root {
